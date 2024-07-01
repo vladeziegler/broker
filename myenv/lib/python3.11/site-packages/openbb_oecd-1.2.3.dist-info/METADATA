@@ -1,0 +1,34 @@
+Metadata-Version: 2.1
+Name: openbb-oecd
+Version: 1.2.3
+Summary: OECD extension for OpenBB
+License: AGPL-3.0-only
+Author: OpenBB Team
+Author-email: hello@openbb.co
+Requires-Python: >=3.8,<4.0
+Classifier: License :: OSI Approved :: GNU Affero General Public License v3
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Programming Language :: Python :: 3.12
+Requires-Dist: defusedxml (>=0.8.0rc2,<0.9.0)
+Requires-Dist: openbb-core (>=1.2.5,<2.0.0)
+Requires-Dist: urllib3 (>1.26.16)
+Description-Content-Type: text/markdown
+
+# OpenBB OECD Provider
+
+This extension integrates the [OECD](https://stats.oecd.org) data provider into the OpenBB Platform.
+
+## Installation
+
+To install the extension:
+
+```bash
+pip install openbb-oecd
+```
+
+Documentation available [here](https://docs.openbb.co/platform/developer_guide/contributing).
+

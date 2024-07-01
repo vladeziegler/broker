@@ -1,0 +1,32 @@
+Metadata-Version: 2.1
+Name: openbb-commodity
+Version: 1.1.3
+Summary: Commodity extension for OpenBB
+License: AGPL-3.0-only
+Author: OpenBB Team
+Author-email: hello@openbb.co
+Requires-Python: >=3.8,<4.0
+Classifier: License :: OSI Approved :: GNU Affero General Public License v3
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Programming Language :: Python :: 3.12
+Requires-Dist: openbb-core (>=1.2.5,<2.0.0)
+Description-Content-Type: text/markdown
+
+# Commodity Extension for OpenBB Platform
+
+This extension provides a set of commands for commodity-related data.
+
+## Installation
+
+To install the extension, run the following command in this folder:
+
+```bash
+pip install openbb-commodity
+```
+
+Documentation available [here](https://docs.openbb.co/platform/developer_guide/contributing).
+

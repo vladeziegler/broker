@@ -1,0 +1,25 @@
+[tool.poetry]
+name = "Buying-Signals"
+version = "0.1.0"
+description = "Buying signals for enterprise customers"
+authors = ["Your Name <your.email@example.com>"]
+
+[tool.poetry.dependencies]
+python = ">=3.10.0,<3.12"
+langchain-groq = "^0.0.1"
+crewai = {version = "^0.32.0", extras = ["tools"]}
+unstructured = "0.10.25"
+pydantic = "^2.6.3"
+load-dotenv = "^0.1.0"
+pyowm = "3.3.0"
+tools = "^0.1.9"
+python-dotenv = "1.0.0"
+ollama = "*"
+embedchain = "^0.1.109"
+tokenizers = "^0.19"
+langchain-exa = "0.0.1"
+exa_py = "1.0.7"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

@@ -1,0 +1,25 @@
+1. Key Financial Indicators:
+- Gross Margins: According to a study, the median margin for mental health hospitalizations in the U.S. is $376/day (IQR, $23-$618) (Source: <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8034672/>).
+- Net Margins: According to macrotrends, Universal Health Services net profit margin as of March 31, 2024 is 5.57% (Source: <https://www.macrotrends.net/stocks/charts/UHS/universal-health-services/profit-margins>).
+- EBITDA Margins: According to a report by BDO, behavioral health is a low margin operation with very little opportunity for profit (Source: <https://growingourpractice.com/little-wealth-in-mental-health-businesses/>).
+- Operating Margins: According to Becker's Hospital Review, the operating margin for Universal Health Services is 11.8% (Source: <https://www.beckershospitalreview.com/finance/from-6-8-to-12-2-34-health-systems-ranked-by-operating-margins.html>).
+
+2. Unit Economics:
+- Average Order Value: Not available.
+- Customer Acquisition Costs: Not available.
+- Lifetime Value of a Customer: Not available.
+- Customer Churn Rates: Not available.
+
+3. Major Cost Drivers:
+- According to a report by BDO, behavioral health is a low margin operation with very little opportunity for profit (Source: <https://growingourpractice.com/little-wealth-in-mental-health-businesses/>).
+
+4. Main Revenue Streams:
+- According to a report by BDO, the U.S. behavioral health market size was USD 83.47 billion in 2022 and is estimated to reach USD 136.60 billion by 2032, expanding at a 5.1% CAGR between 2023 and 2032 (Source: <https://www.towardshealthcare.com/insights/us-behavioral-health-market>).
+- According to Statista, the Mental Health market in the United States is projected to grow by 0.53% (2024-2028) resulting in a market volume of US$11.98bn in 2028 (Source: <https://www.statista.com/outlook/hmo/mental-health/united-states>).
+
+5. Levers used by players in the industry:
+- Services: Providing comprehensive, high-quality mental health and wellness solutions to college and university students.
+- Pricing: Offering affordable prices for mental health solutions.
+- Marketing: Utilizing various distribution channels, including direct partnerships with educational institutions and digital marketing strategies.
+
+Note: The data points mentioned above are based on the search results and may not be specific to the mental health solutions providers that specialize in serving college and university students. However, these data points provide a comprehensive economic analysis of the unit economics in the mental health solutions industry in the United States.
